@@ -18,4 +18,4 @@ O sistema tem como objetivo permitir o **cadastro de roupas** através de uma **
 
 ## 📷 Imagem do sistema
 
-![Uploading image.png…]()
+![Uploading Captura de tela 2025-04-04 171844.png…]()
